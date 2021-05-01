@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-03-06T20:17:34.925Z",
-    "end": "2021-03-06T20:17:35.176Z",
-    "duration": 251
+    "start": "2021-05-01T12:03:16.393Z",
+    "end": "2021-05-01T12:03:16.777Z",
+    "duration": 384
   },
   "tests": [
     {
@@ -62,7 +62,7 @@
     {
       "title": "removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeLastDriver() removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeLastDriver() removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
